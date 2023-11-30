@@ -251,3 +251,4 @@ in your DLL code to initiate debugging from the desired point
 
 - https://github.com/therealdreg/flashrom_build_windows_x64
 - https://github.com/therealdreg/flashrom-dregmod
+- https://github.com/therealdreg/buzzpirat
