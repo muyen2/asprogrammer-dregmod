@@ -245,4 +245,9 @@ in your DLL code to initiate debugging from the desired point
 
 # Credits
 
-- nofeletru for ASprogrammer: https://github.com/nofeletru/UsbAsp-flash/
+- nofeletru for ASprogrammer: https://github.com/nofeletru/UsbAsp-flash
+
+# Related
+
+- https://github.com/therealdreg/flashrom_build_windows_x64
+- https://github.com/therealdreg/flashrom-dregmod
